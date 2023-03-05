@@ -1,4 +1,4 @@
-# -1.Api_World_Universities
+# Api World_Universities
 
 This is my project for practice APi-s.
 Here is list world univercities over the world.
